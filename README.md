@@ -5,7 +5,7 @@ I'm a FullStack Developer with +6 years of experience in:
 - 🔥 JavaScript:(MERN MEVN and TypeScript).
 - 👨‍💻 SQL(MySql, PostgreSQL and Supabase).
 - 👨‍💻 No-SQL: (Redis and MongoDB).
-- ⚓ DevOps (Docker, AWS S3, ECR and ECS
+- ⚓ DevOps (Docker, AWS S3, ECR and ECS).
 - 🌱 I’m currently learning (Golang, Elixir and Kubernetes).
 
 I love working in all my stack. 'Cuz, I don't have much favoritism about the technologies I use for programming and I like to do mostly fullstack technologies.
